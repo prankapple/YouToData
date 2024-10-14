@@ -1,2 +1,2 @@
 # YouToData
-Just paste this link : prankapple.github.io/YouToData/YouToData.js to the textbox.
+Just paste this link : https://prankapple.github.io/YouToData/YouToData.js to the textbox.
